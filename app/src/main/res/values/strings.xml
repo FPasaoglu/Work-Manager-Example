@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Work Manager Example</string>
+    <string name="channel_name">worker_channel</string>
+    <string name="channel_description">worker_channel_description</string>
+    <string name="write_any_text">Write any text comment to App</string>
+    <string name="emotion_analysis">Emotion Analysis</string>
+    <string name="send_logs">Send Logs Periodically</string>
+    <string name="state">State</string>
+</resources>
